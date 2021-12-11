@@ -21,20 +21,20 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjindal1909&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kjindal's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjindal19&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kjindal's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjindal1909&hide=scss,css,js,javascript,html&layout=compact&text_color=daf7dc&bg_color=151515)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjindal19&hide=scss,css,js,javascript,html&layout=compact&text_color=daf7dc&bg_color=151515)](#)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal1909/kjindal1909/main/website.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/kjindal_/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal1909/kjindal1909/main/insta.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kjindal-" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal1909/kjindal1909/main/linkedin.png" width="50" /></a>  
-&nbsp; <a href="mailto:kunal.devloper@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal1909/kjindal1909/main/gmail.png"  width="50" /></a>
+&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/website.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/kjindal_/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/insta.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/kjindal-" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/linkedin.png" width="50" /></a>  
+&nbsp; <a href="mailto:kunal.devloper@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/gmail.png"  width="50" /></a>
 </p>
 
 Thanks! [devSouvik](https://github.com/devSouvik) for the idea of this Profile.
