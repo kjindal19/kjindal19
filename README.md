@@ -32,7 +32,7 @@
 
 <p align="center">
 &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/website.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/kjindal_/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/insta.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/kjindal_19/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/insta.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/kjindal-" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/linkedin.png" width="50" /></a>  
 &nbsp; <a href="mailto:kunal.devloper@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/gmail.png"  width="50" /></a>
 </p>
