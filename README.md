@@ -3,21 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a Undegraduate Student at Amity University Noida.
-- 🤔 &nbsp; Exploring new technologies and likes to freelance when I'm free .
-- 🎓 &nbsp; Studying Computer Science Engineering but not limited to Uni Syllabus.
-- 💼 &nbsp; Full Time Student and a Part-Time Freelancer.
+- 💼 &nbsp; Associate Software Engineering @ [Ciena](https://www.ciena.com/).
+- 🔭 &nbsp; Working on my frontend and people skills.
+- 🤔 &nbsp; Exploring new technologies and like to freelance when I'm free.
+- 🎓 &nbsp; CS Graduate from Amity University Noida.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence and Robotics.
-- ✍️ &nbsp; Trying my best to finish all the Assignments on time and learning new things everyday.
-- ☕ &nbsp; A cup of coffee will be of great help in most of the situations. 
+- ☕ &nbsp; A cup of coffee will be of great help in most situations. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C  
-- 🌐 &nbsp; Django | Flask | HTML | CSS | Wordpress 
-- 🛢 &nbsp; MySQL | MongoDb
-- 🔧 &nbsp; PyCharm | Visual Studio code | CLion | Git
-- 🖥 &nbsp; Adobe AE | Illustrator | Photoshop
+- 💻 &nbsp; Python | C | JS | C#
+- 🌐 &nbsp; Django | Flask | FAST API | React | .Net 
+- 🛢 &nbsp; Postgres | MongoDb 
+- 🔧 &nbsp; Visual Studio code | Git
+- ☁️ &nbsp; Azure | AWS
 
 <br>
 
@@ -31,13 +30,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/website.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/kjindal_19/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/insta.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kjindal-" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/linkedin.png" width="50" /></a>  
-&nbsp; <a href="mailto:kunal.devloper@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.kjindal19.in" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/website.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/kjindal19/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/insta.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/kjindal19" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/linkedin.png" width="50" /></a>  
+&nbsp; <a href="mailto:kjindal19.in@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/kjindal19/kjindal19/main/gmail.png"  width="50" /></a>
 </p>
 
 Thanks! [devSouvik](https://github.com/devSouvik) for the idea of this Profile.
-
-
-Making changes for the github course.
